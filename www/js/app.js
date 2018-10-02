@@ -22,7 +22,7 @@ angular.module('starter', ['ionic'])
     $scope.posts = [];
     
     // set the feed url
-    var url = "http://rss.cnn.com/rss/cnn_topstories.rss";
+    var url = "https://alerts.weather.gov/cap/al.php?x=1";
     // set the url to google, to convert the cml feed to json
     var google_converter = "http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=50&callback=JSON_CALLBACK&q=";
 
