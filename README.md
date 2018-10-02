@@ -1,7 +1,7 @@
 # ionic-feed-reader-example-app
-An app that graps the graps the rss feed of CNN and puts it into a list.
-This app is very basic. The only propose is to demonstrate the ionic framework in my master thesis.
-The project bases on the ionic blank themplate. 
+An app that graps the graps the rss feed of the NWS - National Weather Service and puts it into a list.
+This app is very basic. The only propose of the core app was to demonstrate the ionic framework in N Bussmans' master thesis.
+The project bases on the ionic blank themplate, sample RSS reader forked, and customized for use as Insurance Weather Alert App. 
 #Install
 
 ```
